@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name willowPecoe-rescue)(type Legacy)(uri ${KIPRJMOD}/willowPecoe-rescue.lib)(options "")(descr ""))
+)
