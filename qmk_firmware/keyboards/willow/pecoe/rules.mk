@@ -27,3 +27,6 @@ CUSTOM_MATRIX = yes
 
 VIA_ENABLE = yes
 AUTO_SHIFT_ENABLE = yes
+
+# Reduce firmware size: enable Link-Time-Optimization
+LTO_ENABLE = yes
